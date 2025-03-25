@@ -35,7 +35,10 @@ Manually comparing location, price, size, and potential rent is time-consuming a
 | `kc_house_data.csv` | Raw dataset (from [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)) |
 | `Real_Estate_Analysis.ipynb` | Main notebook: EDA, clustering, ML, deep learning |
 | `kc_processed_real_estate.csv` | Cleaned dataset with predictions and cluster labels |
-| `real_estate_report.pdf` | Automatically generated PDF report summarizing key insights |
+I
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VincentEquityLab/Capstone-Project-/blob/main/Capstone_Project_Real_Estate_Analysis_ipynb.ipynb)
+
 
 ---
 
